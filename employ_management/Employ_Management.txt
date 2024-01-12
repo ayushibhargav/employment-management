@@ -1,0 +1,65 @@
+Project Name- Form Validation
+
+-Create Dev Enviroment
+-Language Used: HTML,CSS,JS. Libraries used(jQUERY, Bootstrap,Sweet Alert).
+-Tool used: VS Code, Chrome, Mozilla.
+ 
+
+Requirement Gathering:-
+   a. Pop up on submit button.
+   b. Cant enter duplicate email(pop up alert).
+   c. All fields are mandatory.
+   d. Show data at me right side of the page with delete button.
+   e. Click on delete button a pop up will appear (Ask boolean {yes/no}).
+
+
+
+Phase 1:- UI Interface
+a. Create Workspace
+b. Create index.html
+c. Boiler Plate-Jquery, Bootstrap
+d. Verify whether Above link are working or not
+e. Design of form (two partition needed, grid-row/col-6.
+f. Design form in first col (4 fileds needed-Name, email, data,Submit).
+g. Design table header.
+
+
+Phase 2:- Functionality:- 
+a. Console the form data (on click & submit).
+b. Rendered data into the table.
+c. Convert form data into js object.
+d. Create empty js array.
+e. Push the object into js array.
+f. Iterate array.
+g. Create HTML String
+h. Inject into DOM
+{Var ed=[]
+ed.push(obj)
+ed.foreach()
+.html()
+.append()
+i. Click on delete btn(i) popup (yes/no), (ii) y_getdel btn id
+    ed.pop(a=>.d=id)
+j. Render the table.
+
+
+
+Phase 3:- Validation
+1. All fields are mandatory
+2. Duplicate email id warning that email id is duplicate.
+3. Encryption For sweet aleart
+4. Email Format.
+
+
+
+
+Quality Assurance
+
+Deploy on git
+                  
+
+
+
+
+
+
